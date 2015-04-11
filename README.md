@@ -1,4 +1,4 @@
-frontend-nanodegree-arcade-game
+Frogger Clone
 ===============================
 
 Steps: 
